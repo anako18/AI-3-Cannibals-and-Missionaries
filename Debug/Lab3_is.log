@@ -1,0 +1,16 @@
+﻿Сборка начата 13.10.2017 15:21:30.
+     1>Проект "C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab3_is\Lab3_is.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\настя\documents\visual studio 2015\projects\lab3_is\main.cpp(146): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\настя\documents\visual studio 2015\projects\lab3_is\main.cpp(224): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\настя\documents\visual studio 2015\projects\lab3_is\main.cpp(234): warning C4715: DLS: значение возвращается не при всех путях выполнения
+       Link:
+         D:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab3_is\Debug\Lab3_is.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab3_is\Debug\Lab3_is.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab3_is\Debug\Lab3_is.lib" /MACHINE:X86 Debug\main.obj
+         Lab3_is.vcxproj -> C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab3_is\Debug\Lab3_is.exe
+     1>Сборка проекта "C:\Users\Настя\Documents\Visual Studio 2015\Projects\Lab3_is\Lab3_is.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.80
